@@ -11,7 +11,7 @@ These xboxdrv controller scripts greatly enhance the capabilities of your Gpi Ca
 ## Update the menu
 
 ```shell
-cd && cd RetroPie/retropiemenu && wget -O migrate-controllertools.sh  https://raw.githubusercontent.com/SinisterSpatula/Gpi3/master/migrate-controllertools.sh && sudo chmod 775 migrate-controllertools.sh && sudo rm control_updater_menu.sh
+cd && cd RetroPie/retropiemenu && wget -O migrate-controllertools.sh  https://raw.githubusercontent.com/snakepl88/Gpi3/master/migrate-controllertools.sh && sudo chmod 775 migrate-controllertools.sh && sudo rm control_updater_menu.sh
 ```
 
 ## Then run this command
@@ -25,7 +25,7 @@ cd && cd RetroPie/retropiemenu && wget -O migrate-controllertools.sh  https://ra
 
 ### Done.
 
-You also need to have xboxdrv installed (if it isn't already).  [See the Guide here](https://sinisterspatula.github.io/RetroflagGpiGuides/Controls_Updater_Menu)
+You also need to have xboxdrv installed (if it isn't already).  [See the Guide here](https://snakepl88.github.io/RetroflagGpiGuides/Controls_Updater_Menu)
 
 ## Checkout the controls diagrams located here:
 [https://photos.app.goo.gl/iM52fxLmjadTocyk8](https://photos.app.goo.gl/iM52fxLmjadTocyk8)
@@ -33,8 +33,8 @@ You also need to have xboxdrv installed (if it isn't already).  [See the Guide h
 
 ## Want to provide feedback?  Found a bug?
 
-* If you have suggestions for improving these control maps, please [add your comments or questions here.](https://github.com/SinisterSpatula/Gpi3/issues/)
+* If you have suggestions for improving these control maps, please [add your comments or questions here.](https://github.com/snakepl88/Gpi3/issues/)
 
 ## Icons for ES Themes:
-[https://github.com/SinisterSpatula/Gpi3/tree/master/icons](https://github.com/SinisterSpatula/Gpi3/tree/master/icons)
+[https://github.com/snakepl88/Gpi3/tree/master/icons](https://github.com/snakepl88/Gpi3/tree/master/icons)
 
